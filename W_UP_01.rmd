@@ -68,4 +68,5 @@ The T-test shows that, the P value is 0.000009421 which is smaller than 0.05. Th
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+The question was the difference in the amount of pushups made by line players versus skill players.
+Based on the t-test, it was shown that the skill players were able to do more pushups.
